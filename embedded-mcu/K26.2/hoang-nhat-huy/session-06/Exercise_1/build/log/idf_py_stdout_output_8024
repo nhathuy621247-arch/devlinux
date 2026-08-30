@@ -1,0 +1,44 @@
+-- Found Git: D:/Git/cmd/git.exe (found version "2.55.0.windows.4") 
+-- ccache will be used for faster recompilation
+-- The C compiler identification is GNU 13.2.0
+-- The CXX compiler identification is GNU 13.2.0
+-- The ASM compiler identification is GNU
+-- Found assembler: C:/Users/DELL/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/bin/xtensa-esp32s3-elf-gcc.exe
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Users/DELL/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/bin/xtensa-esp32s3-elf-gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Users/DELL/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/bin/xtensa-esp32s3-elf-g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Building ESP-IDF components for target esp32s3
+-- Project sdkconfig file D:/Study_ESP/devlinux/embedded-mcu/K26.2/hoang-nhat-huy/session-06/Exercise_1/sdkconfig
+-- Compiler supported targets: xtensa-esp-elf
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for stdint.h
+-- Looking for stdint.h - found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of time_t
+-- Check size of time_t - done
+-- Found Python3: C:/Users/DELL/.espressif/python_env/idf5.2_py3.14_env/Scripts/python.exe (found version "3.14.6") found components: Interpreter 
+-- Performing Test C_COMPILER_SUPPORTS_WFORMAT_SIGNEDNESS
+-- Performing Test C_COMPILER_SUPPORTS_WFORMAT_SIGNEDNESS - Success
+-- App "Exercise_1" version: 8d73349
+-- Adding linker script D:/Study_ESP/devlinux/embedded-mcu/K26.2/hoang-nhat-huy/session-06/Exercise_1/build/esp-idf/esp_system/ld/memory.ld
+-- Adding linker script D:/ToolEsp/esp-idf/components/esp_system/ld/esp32s3/sections.ld.in
+-- Adding linker script D:/ToolEsp/esp-idf/components/esp_rom/esp32s3/ld/esp32s3.rom.ld
+-- Adding linker script D:/ToolEsp/esp-idf/components/esp_rom/esp32s3/ld/esp32s3.rom.api.ld
+-- Adding linker script D:/ToolEsp/esp-idf/components/esp_rom/esp32s3/ld/esp32s3.rom.libgcc.ld
+-- Adding linker script D:/ToolEsp/esp-idf/components/esp_rom/esp32s3/ld/esp32s3.rom.newlib.ld
+-- Adding linker script D:/ToolEsp/esp-idf/components/esp_rom/esp32s3/ld/esp32s3.rom.version.ld
+-- Adding linker script D:/ToolEsp/esp-idf/components/soc/esp32s3/ld/esp32s3.peripherals.ld
+-- Components: app_trace app_update bootloader bootloader_support bt cmock console cxx driver efuse esp-tls esp_adc esp_app_format esp_bootloader_format esp_coex esp_common esp_eth esp_event esp_gdbstub esp_hid esp_http_client esp_http_server esp_https_ota esp_https_server esp_hw_support esp_lcd esp_local_ctrl esp_mm esp_netif esp_netif_stack esp_partition esp_phy esp_pm esp_psram esp_ringbuf esp_rom esp_system esp_timer esp_wifi espcoredump esptool_py fatfs freertos hal heap http_parser idf_test ieee802154 json log lwip main mbedtls mqtt newlib nvs_flash nvs_sec_provider openthread partition_table perfmon protobuf-c protocomm pthread sdmmc soc spi_flash spiffs tcp_transport touch_element ulp unity usb vfs wear_levelling wifi_provisioning wpa_supplicant xtensa
+-- Component paths: D:/ToolEsp/esp-idf/components/app_trace D:/ToolEsp/esp-idf/components/app_update D:/ToolEsp/esp-idf/components/bootloader D:/ToolEsp/esp-idf/components/bootloader_support D:/ToolEsp/esp-idf/components/bt D:/ToolEsp/esp-idf/components/cmock D:/ToolEsp/esp-idf/components/console D:/ToolEsp/esp-idf/components/cxx D:/ToolEsp/esp-idf/components/driver D:/ToolEsp/esp-idf/components/efuse D:/ToolEsp/esp-idf/components/esp-tls D:/ToolEsp/esp-idf/components/esp_adc D:/ToolEsp/esp-idf/components/esp_app_format D:/ToolEsp/esp-idf/components/esp_bootloader_format D:/ToolEsp/esp-idf/components/esp_coex D:/ToolEsp/esp-idf/components/esp_common D:/ToolEsp/esp-idf/components/esp_eth D:/ToolEsp/esp-idf/components/esp_event D:/ToolEsp/esp-idf/components/esp_gdbstub D:/ToolEsp/esp-idf/components/esp_hid D:/ToolEsp/esp-idf/components/esp_http_client D:/ToolEsp/esp-idf/components/esp_http_server D:/ToolEsp/esp-idf/components/esp_https_ota D:/ToolEsp/esp-idf/components/esp_https_server D:/ToolEsp/esp-idf/components/esp_hw_support D:/ToolEsp/esp-idf/components/esp_lcd D:/ToolEsp/esp-idf/components/esp_local_ctrl D:/ToolEsp/esp-idf/components/esp_mm D:/ToolEsp/esp-idf/components/esp_netif D:/ToolEsp/esp-idf/components/esp_netif_stack D:/ToolEsp/esp-idf/components/esp_partition D:/ToolEsp/esp-idf/components/esp_phy D:/ToolEsp/esp-idf/components/esp_pm D:/ToolEsp/esp-idf/components/esp_psram D:/ToolEsp/esp-idf/components/esp_ringbuf D:/ToolEsp/esp-idf/components/esp_rom D:/ToolEsp/esp-idf/components/esp_system D:/ToolEsp/esp-idf/components/esp_timer D:/ToolEsp/esp-idf/components/esp_wifi D:/ToolEsp/esp-idf/components/espcoredump D:/ToolEsp/esp-idf/components/esptool_py D:/ToolEsp/esp-idf/components/fatfs D:/ToolEsp/esp-idf/components/freertos D:/ToolEsp/esp-idf/components/hal D:/ToolEsp/esp-idf/components/heap D:/ToolEsp/esp-idf/components/http_parser D:/ToolEsp/esp-idf/components/idf_test D:/ToolEsp/esp-idf/components/ieee802154 D:/ToolEsp/esp-idf/components/json D:/ToolEsp/esp-idf/components/log D:/ToolEsp/esp-idf/components/lwip D:/Study_ESP/devlinux/embedded-mcu/K26.2/hoang-nhat-huy/session-06/Exercise_1/main D:/ToolEsp/esp-idf/components/mbedtls D:/ToolEsp/esp-idf/components/mqtt D:/ToolEsp/esp-idf/components/newlib D:/ToolEsp/esp-idf/components/nvs_flash D:/ToolEsp/esp-idf/components/nvs_sec_provider D:/ToolEsp/esp-idf/components/openthread D:/ToolEsp/esp-idf/components/partition_table D:/ToolEsp/esp-idf/components/perfmon D:/ToolEsp/esp-idf/components/protobuf-c D:/ToolEsp/esp-idf/components/protocomm D:/ToolEsp/esp-idf/components/pthread D:/ToolEsp/esp-idf/components/sdmmc D:/ToolEsp/esp-idf/components/soc D:/ToolEsp/esp-idf/components/spi_flash D:/ToolEsp/esp-idf/components/spiffs D:/ToolEsp/esp-idf/components/tcp_transport D:/ToolEsp/esp-idf/components/touch_element D:/ToolEsp/esp-idf/components/ulp D:/ToolEsp/esp-idf/components/unity D:/ToolEsp/esp-idf/components/usb D:/ToolEsp/esp-idf/components/vfs D:/ToolEsp/esp-idf/components/wear_levelling D:/ToolEsp/esp-idf/components/wifi_provisioning D:/ToolEsp/esp-idf/components/wpa_supplicant D:/ToolEsp/esp-idf/components/xtensa
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Study_ESP/devlinux/embedded-mcu/K26.2/hoang-nhat-huy/session-06/Exercise_1/build
