@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Study_ESP/devlinux/embedded-mcu/K26.2/hoang-nhat-huy/session-05/Exercise_1/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/Study_ESP/devlinux/embedded-mcu/K26.2/hoang-nhat-huy/session-05/Exercise_1/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/Study_ESP/devlinux/embedded-mcu/K26.2/hoang-nhat-huy/session-05/Exercise_1/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/Study_ESP/devlinux/embedded-mcu/K26.2/hoang-nhat-huy/session-05/Exercise_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "D:/Study_ESP/devlinux/embedded-mcu/K26.2/hoang-nhat-huy/session-05/Exercise_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/Study_ESP/devlinux/embedded-mcu/K26.2/hoang-nhat-huy/session-05/Exercise_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/Study_ESP/devlinux/embedded-mcu/K26.2/hoang-nhat-huy/session-05/Exercise_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/Study_ESP/devlinux/embedded-mcu/K26.2/hoang-nhat-huy/session-05/Exercise_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/Study_ESP/devlinux/embedded-mcu/K26.2/hoang-nhat-huy/session-05/Exercise_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/Study_ESP/devlinux/embedded-mcu/K26.2/hoang-nhat-huy/session-05/Exercise_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
